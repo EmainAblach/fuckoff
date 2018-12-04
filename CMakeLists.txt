@@ -1,1 +1,1 @@
-add_executable/test crazy.c
+add_executable/test crazy.cpp
